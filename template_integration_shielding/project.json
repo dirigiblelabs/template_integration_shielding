@@ -1,1 +1,8 @@
-{"guid":"template_integration_shielding","repository":{"type":"git","branch":"master","url":"https://github.com/dirigiblelabs/template_integration_shielding.git"}}
+{
+    "guid":"template_integration_shielding",
+    "repository":{
+        "type":"git",
+        "branch":"master",
+        "url":"https://github.com/dirigiblelabs/template_integration_shielding.git"
+    }
+}
